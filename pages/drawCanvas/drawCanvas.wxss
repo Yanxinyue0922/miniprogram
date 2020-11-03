@@ -1,0 +1,17 @@
+page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content {
+  margin-top: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.getImg{
+  margin-top: 20rpx;
+  padding: 10rpx 10rpx;
+  background-color: #b6b3d1;
+}

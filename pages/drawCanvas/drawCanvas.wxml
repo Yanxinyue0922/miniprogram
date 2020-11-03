@@ -1,0 +1,5 @@
+<view class="content">
+  <canvas canvas-id="myCanvas" style="width:600rpx;height:800rpx;"></canvas>
+  <button class="myButton" bindtap="myButton">点我选图片</button>
+  <button class="myButton getImg" bindtap="getImg">点我保存图片</button>
+</view>

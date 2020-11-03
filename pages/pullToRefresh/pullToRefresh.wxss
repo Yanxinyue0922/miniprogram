@@ -1,0 +1,15 @@
+.name-image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.name{
+  font-size: 40rpx;
+  font-weight: 600;
+  color: orange;
+}
+.image{
+  width: 450rpx;
+  height: 450rpx;
+}

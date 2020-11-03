@@ -1,0 +1,7 @@
+<!-- 上拉加载 -->
+<view class="content">
+  <view class="name-image" wx:for="{{listMes}}" wx:key="index">
+    <view class="name">{{item.name}}</view>
+    <image class="image" src="{{item.images}}"></image>
+  </view>
+</view>
